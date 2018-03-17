@@ -4,7 +4,9 @@
   "description": "This is my webpack first viersion.",
   "main": "webpack.config.js",
   "dependencies": {
-    "node-sass": "^4.8.2"
+    "node-sass": "^4.8.2",
+    "webpack": "^4.1.1",
+    "webpack-dev-server": "^3.1.1"
   },
   "devDependencies": {},
   "scripts": {
