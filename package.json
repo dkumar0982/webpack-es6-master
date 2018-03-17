@@ -1,0 +1,27 @@
+{
+  "name": "webpack-es6-master",
+  "version": "1.0.0",
+  "description": "This is my webpack first viersion.",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "node-sass": "^4.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkumar0982/webpack-es6-master.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-es6"
+  ],
+  "author": "Dharmendra kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkumar0982/webpack-es6-master/issues"
+  },
+  "homepage": "https://github.com/dkumar0982/webpack-es6-master#readme"
+}
